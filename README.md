@@ -2,7 +2,11 @@
 
 Here's a list of solutions that support the ABAP programming language typically with syntax highlighting:
 
-## Language Definitions 
+## Official Documentation
+
+- ABAP Keyword Docs ([home](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm), [quick ref](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenabap_shortref.htm), [words](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenabap_words.htm), [index](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenabap_index.htm))
+
+## Language Definitions
 
 - abapGit ([repo](https://github.com/abapGit/abapGit), [abap](https://github.com/abapGit/abapGit/blob/main/src/syntax/zcl_abapgit_syntax_abap.clas.abap))
 - Monaco ([repo](https://github.com/microsoft/monaco-languages), [abap](https://github.com/microsoft/monaco-languages/blob/main/src/abap/abap.ts))
