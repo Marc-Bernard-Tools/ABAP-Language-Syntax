@@ -9,7 +9,7 @@ Here's a list of solutions that support the ABAP programming language typically 
 ## Development Tools
 
 - ABAP Development ([home](https://tools.hana.ondemand.com/#abap) with links to ADT, BTP, and more)
-- VS Code ([home](https://code.visualstudio.com/))
+- VS Code ([home](https://code.visualstudio.com/), [extensions for abap](https://marketplace.visualstudio.com/search?term=abap&target=VSCode&category=All%20categories&sortBy=Relevance))
 
 ## Language Definitions
 
