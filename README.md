@@ -18,6 +18,7 @@ Here's a list of solutions that support the ABAP programming language typically 
 - Monaco ([repo](https://github.com/microsoft/monaco-languages), [abap](https://github.com/microsoft/monaco-languages/blob/main/src/abap/abap.ts))
 - Linguist ([repo](https://github.com/github/linguist), [abap](https://github.com/pvl/abap.tmbundle), [abap cds](https://github.com/FreHu/abap-cds-grammar))
 - Highlightjs-sap-abap ([repo](https://github.com/highlightjs/highlightjs-sap-abap), [abap](https://github.com/highlightjs/highlightjs-sap-abap/blob/master/src/abap.js))
+- Prism.js ([repo](https://github.com/PrismJS/prism), [abap](https://github.com/PrismJS/prism/blob/master/components/prism-abap.js))
 
 ## Editors
 
