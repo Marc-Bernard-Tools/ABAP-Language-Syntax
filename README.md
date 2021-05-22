@@ -36,4 +36,4 @@ All contributions are welcome! Just fork this repo and create a pull request.
 ## About
 
 <p>Follow <a href="https://twitter.com/marcfbe">@marcfbe</a> on Twitter</p>
-<p><a href="https://marcbernardtools.com/"><img width="160" height="65" src="img/MBT_Logo_640x250_on_Gray.png" alt="MBT Logo"></a></p>
+<p><a href="https://marcbernardtools.com/"><img width="160" height="65" src="https://marcbernardtools.com/info/MBT_Logo_640x250_on_Gray.png" alt="MBT Logo"></a></p>
