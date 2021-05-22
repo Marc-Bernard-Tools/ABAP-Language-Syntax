@@ -1,6 +1,6 @@
 # ABAP Language Support / Syntax Highlighting
 
-Here's a list of solutions that support the ABAP programming language typically with syntax highlighting:
+A list of solutions that support the ABAP programming language typically with syntax highlighting
 
 ## Official Documentation
 
@@ -28,3 +28,12 @@ Here's a list of solutions that support the ABAP programming language typically 
 ## Contributions
 
 Please feel free to add to and share this list.
+
+## Contributions
+
+All contributions are welcome! Just fork this repo and create a pull request. 
+
+## About
+
+<p>Follow <a href="https://twitter.com/marcfbe">@marcfbe</a> on Twitter</p>
+<p><a href="https://marcbernardtools.com/"><img width="160" height="65" src="img/MBT_Logo_640x250_on_Gray.png" alt="MBT Logo"></a></p>
