@@ -20,11 +20,13 @@ A list of solutions that support the ABAP programming language typically with sy
 - Linguist ([repo](https://github.com/github/linguist), [abap](https://github.com/pvl/abap.tmbundle), [abap cds](https://github.com/FreHu/abap-cds-grammar))
 - Highlightjs-sap-abap ([repo](https://github.com/highlightjs/highlightjs-sap-abap), [abap](https://github.com/highlightjs/highlightjs-sap-abap/blob/master/src/abap.js))
 - Prism.js ([repo](https://github.com/PrismJS/prism), [abap](https://github.com/PrismJS/prism/blob/master/components/prism-abap.js))
+- React ([repo](https://github.com/react-syntax-highlighter/react-syntax-highlighter), based on Prism)
 
 ## Editors
 
 - Notepad++ ([home](https://github.com/notepad-plus-plus), [abap](https://github.com/notepad-plus-plus/userDefinedLanguages/blob/master/UDLs/ABAP_by_ChristianKosasih.xml) or [abap](https://github.com/notepad-plus-plus/userDefinedLanguages/blob/master/UDLs/SAP-ABAP_byFrancoCapetta.xml))
 - Textpad ([home](https://www.textpad.com/), [abap](https://www.textpad.com/addons/syntax) or [abap](/src/textpad/abap.syn))
+- Textmate ([home](https://macromates.com/), based on Linguist)
 
 ## Contributions
 
