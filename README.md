@@ -28,6 +28,8 @@ A list of solutions that support the ABAP programming language typically with sy
 - Notepad++ ([home](https://github.com/notepad-plus-plus), [abap](https://github.com/notepad-plus-plus/userDefinedLanguages/blob/master/UDLs/ABAP_by_ChristianKosasih.xml) or [abap](https://github.com/notepad-plus-plus/userDefinedLanguages/blob/master/UDLs/SAP-ABAP_byFrancoCapetta.xml))
 - Textpad ([home](https://www.textpad.com/), [abap](https://www.textpad.com/addons/syntax) or [abap](/src/textpad/abap.syn))
 - Textmate ([home](https://macromates.com/), based on Linguist)
+- Ace ([home](https://ace.c9.io/))
+- CodeMirror ([home](https://codemirror.net/), [abap](https://github.com/larshp/codemirror-abap))
 
 ## Contributions
 
