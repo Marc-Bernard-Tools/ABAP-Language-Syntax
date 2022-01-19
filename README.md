@@ -18,6 +18,7 @@ A list of solutions that support the ABAP programming language typically with sy
 - Monaco ([repo](https://github.com/microsoft/monaco-languages), [abap](https://github.com/microsoft/monaco-languages/blob/main/src/abap/abap.ts))
 - Linguist ([repo](https://github.com/github/linguist), [abap](https://github.com/pvl/abap.tmbundle), [abap cds](https://github.com/FreHu/abap-cds-grammar))
   - VS Code ([repo](https://github.com/larshp/vscode-abap), [abap](https://github.com/larshp/vscode-abap/blob/main/syntaxes/abap.tmLanguage), based on Linguist)
+  - Shiki ([repo](https://github.com/shikijs/shiki), [abap](https://github.com/shikijs/shiki/blob/main/packages/shiki/languages/abap.tmLanguage.json), based on Linguist)
 - Highlight.js ([repo](https://github.com/highlightjs/highlightjs-sap-abap), [abap](https://github.com/highlightjs/highlightjs-sap-abap/blob/master/src/abap.js))
 - Prism.js ([repo](https://github.com/PrismJS/prism), [abap](https://github.com/PrismJS/prism/blob/master/components/prism-abap.js))
   - React ([repo](https://github.com/react-syntax-highlighter/react-syntax-highlighter), based on Prism)
