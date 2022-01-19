@@ -25,7 +25,7 @@ A list of solutions that support the ABAP programming language typically with sy
 
 ## Editors
 
-- SAP OpenUI5 Code Editor ([abap](https://github.com/SAP/openui5/blob/master/src/sap.ui.codeeditor/src/sap/ui/codeeditor/js/ace/mode-abap.js)
+- SAP OpenUI5 Code Editor ([home](https://github.com/SAP/openui5/tree/master/src/sap.ui.codeeditor), [abap](https://github.com/SAP/openui5/blob/master/src/sap.ui.codeeditor/src/sap/ui/codeeditor/js/ace/mode-abap.js))
 - Notepad++ ([home](https://github.com/notepad-plus-plus), [abap](https://github.com/notepad-plus-plus/userDefinedLanguages/blob/master/UDLs/ABAP_by_ChristianKosasih.xml) or [abap](https://github.com/notepad-plus-plus/userDefinedLanguages/blob/master/UDLs/SAP-ABAP_byFrancoCapetta.xml))
 - Textpad ([home](https://www.textpad.com/), [abap](https://www.textpad.com/addons/syntax) or [abap](/src/textpad/abap.syn))
 - Textmate ([home](https://macromates.com/), based on Linguist)
