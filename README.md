@@ -33,6 +33,11 @@ A list of solutions that support the ABAP programming language typically with sy
 - Ace ([home](https://ace.c9.io/))
 - CodeMirror ([home](https://codemirror.net/), [abap](https://github.com/larshp/codemirror-abap))
 
+## Apps
+
+- Sanappify ([home](https://snappify.io/), based on Shiki)
+- massCode ([home](https://masscode.io/), based on Monaco)
+
 ## Contributions
 
 Please feel free to add to and share this list.
