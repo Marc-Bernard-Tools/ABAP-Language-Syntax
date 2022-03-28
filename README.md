@@ -1,4 +1,4 @@
-# ABAP Language Support / Syntax Highlighting
+# 🎨 ABAP Language Support / Syntax Highlighting 🎨
 
 A list of solutions that support the ABAP programming language typically with syntax highlighting
 
