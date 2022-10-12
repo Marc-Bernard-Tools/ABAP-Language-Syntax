@@ -36,7 +36,7 @@ A list of solutions that support the ABAP programming language typically with sy
 
 ## Apps
 
-- Sanappify ([home](https://snappify.io/), based on Shiki)
+- Snappify ([home](https://snappify.io/), based on Shiki)
 - massCode ([home](https://masscode.io/), based on Monaco)
 
 ## Contributions
