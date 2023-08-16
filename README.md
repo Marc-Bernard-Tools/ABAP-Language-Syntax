@@ -34,6 +34,7 @@ A list of solutions that support the ABAP programming language typically with sy
 - CodeMirror ([home](https://codemirror.net/), [abap](https://github.com/larshp/codemirror-abap))
 - Confluence ([home](https://confluence.atlassian.com/doc/code-block-macro-139390.html), [abap](https://github.com/g-back/syntaxhighlighter-abap))
 - Notion ([home](https://notion.so]))
+- WordPress ([home](https://wordpress.org/plugins/code-block-pro/), [here](https://github.com/KevinBatdorf/code-block-pro))
 
 ## Apps
 
