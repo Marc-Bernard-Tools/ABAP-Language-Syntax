@@ -40,7 +40,7 @@ A list of solutions that support the ABAP programming language typically with sy
 
 - Snappify ([home](https://snappify.io/), based on Shiki)
 - massCode ([home](https://masscode.io/), based on Monaco)
-- WinMerge ([home](https://winmerge.org/), [abap](https://github.com/wiera987/winmerge/blob/master/Externals/crystaledit/editlib/parsers/abap.cpp) C++ parser)
+- WinMerge ([home](https://winmerge.org/), [abap](https://github.com/WinMerge/winmerge/blob/master/Externals/crystaledit/editlib/parsers/abap.cpp) C++ parser)
 
 ## Contributions
 
