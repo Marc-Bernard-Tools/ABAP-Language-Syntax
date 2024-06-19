@@ -15,7 +15,7 @@ A list of solutions that support the ABAP programming language typically with sy
 ## Language Definitions
 
 - abapGit ([repo](https://github.com/abapGit/abapGit), [abap](https://github.com/abapGit/abapGit/blob/main/src/syntax/zcl_abapgit_syntax_abap.clas.abap))
-- Monaco ([repo](https://github.com/microsoft/monaco-languages), [abap](https://github.com/microsoft/monaco-languages/blob/main/src/abap/abap.ts))
+- Monaco ([repo](https://github.com/microsoft/monaco-editor), [abap](https://github.com/microsoft/monaco-editor/blob/main/src/basic-languages/abap/abap.ts))
 - Linguist ([repo](https://github.com/github/linguist), [abap](https://github.com/pvl/abap.tmbundle), [abap cds](https://github.com/FreHu/abap-cds-grammar))
   - VS Code ([repo](https://github.com/larshp/vscode-abap), [abap](https://github.com/larshp/vscode-abap/blob/main/syntaxes/abap.tmLanguage), based on Linguist)
   - Shiki ([repo](https://github.com/shikijs/shiki), [abap](https://github.com/shikijs/shiki/blob/main/packages/shiki/languages/abap.tmLanguage.json), based on Linguist)
