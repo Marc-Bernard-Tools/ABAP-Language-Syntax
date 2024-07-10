@@ -41,6 +41,7 @@ A list of solutions that support the ABAP programming language typically with sy
 - Snappify ([home](https://snappify.io/), based on Shiki)
 - massCode ([home](https://masscode.io/), based on Monaco)
 - WinMerge ([home](https://winmerge.org/), [abap](https://github.com/WinMerge/winmerge/blob/master/Externals/crystaledit/editlib/parsers/abap.cpp) C++ parser)
+- SAP Note Enhancer ([Chrome Extension](https://chromewebstore.google.com/detail/sap-note-enhancer/keibkcomemkcceddcddjdlncidohgedk) based on prism, [repo](https://github.com/dellagustin/SAP_Note_Enhancer))
 
 ## Contributions
 
